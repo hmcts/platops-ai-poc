@@ -1,0 +1,9 @@
+#!groovy
+
+@Library("Infrastructure")
+
+def type = "java"
+def product = "platops"
+def component = "ai"
+
+withPipeline(type, product, component) {}
