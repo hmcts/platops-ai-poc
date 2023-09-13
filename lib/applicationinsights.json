@@ -1,5 +1,5 @@
 {
-  "connectionString": "InstrumentationKey=48cd7cd2-27b3-4808-ae26-289d63e66a19;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/",
+  "connectionString": "not-set",
   "role": {
     "name": "platops-ai"
   },
